@@ -1,4 +1,8 @@
 <template>
   Navbar
-  <RouterView />
+  <main>
+    <div class="container">
+      <RouterView />
+    </div>
+  </main>
 </template>
